@@ -1,0 +1,14 @@
+* Application offer services according to the type of demande (Company , Student , Customer)
+
+* Companies : 
+- registration in the companies plateform giving the giving services and interships ..
+- search of factory product.
+
+* Student
+- registration in the Student platform giving his information.
+- search of interships giving by companies..
+
+* Customer : 
+- consultation home page app..
+- registration in customer platform giving his information ..
+- search of giving services and products 
